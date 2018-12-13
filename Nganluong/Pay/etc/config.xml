@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <nganluong>
+                <active>0</active>
+                <model>Nganluong\Pay\Model\Nganluong</model>
+                <title>Nganluong Payment Method</title>
+                <mode>0</mode>
+                <lang>vi</lang>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </nganluong>
+        </payment>
+    </default>
+</config>
