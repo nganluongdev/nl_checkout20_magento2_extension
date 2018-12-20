@@ -1,9 +1,8 @@
-# plugin_magento2_nganluongv20
+# NganluongPay Magento2 Extension
 
-This project is codes of the plugin for magento2, allow to use NganLuong Payment Checkout (version 2.0).
+Magento2 Extension for integration to NganLuong Payment Gateway (https://www.nganluong.vn), provide a comprehensive Online Payment solution in Vietnam.
 
-Please check documents:
-
+Guide of Installation and Settings:
 - http://mage.creativeencode.com/ngaluong/index.html
 - http://mage.creativeencode.com/ngaluong/nganluong.doc
 - http://mage.creativeencode.com/ngaluong/nganluong.pdf
