@@ -5,5 +5,4 @@ The extension allow the Magento websites to use the Standard Checkout version (2
 
 Guide of Installation and Settings:
 - http://mage.creativeencode.com/ngaluong/index.html
-- http://mage.creativeencode.com/ngaluong/nganluong.doc
-- http://mage.creativeencode.com/ngaluong/nganluong.pdf
+- https://www.dropbox.com/s/ja53y18ggr245l5/DevGuide_NganLuongPay-Magento2-Extension_en.pdf
